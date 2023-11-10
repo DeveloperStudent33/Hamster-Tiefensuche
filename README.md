@@ -1,0 +1,2 @@
+# Hamster-Tiefensuche
+Scheiß Hamster
